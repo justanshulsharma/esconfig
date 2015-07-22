@@ -1,0 +1,5 @@
+name        "esconfig"
+description "Populates /etc/hosts and /etc/motd"
+maintainer  "Anshul Sharma"
+license     "Apache 2.0"
+version     "1.0.0"
